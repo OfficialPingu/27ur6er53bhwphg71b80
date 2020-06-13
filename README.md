@@ -1,5 +1,4 @@
-# 27ur6er53bhwphg71b80
-Polybius Data Grounds
+# Polybius Data Grounds
 
 Hey! My name is Kurt Koller and I have been researching the Polybius Mystery for years now.
 
@@ -23,4 +22,4 @@ And that is why I have led you here!
 This GitHub Repo houses all of the information I have gathered over the years,
 and now it is your turn to pick up the pieces that have ached my brain for much too long.
 
-Please, don't let my efforts be in vain!
+# Please, don't let my efforts be in vain!
