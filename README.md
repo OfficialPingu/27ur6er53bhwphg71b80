@@ -14,12 +14,11 @@ Nevertheless, I need your help.
 I have spent too long on this project, and am getting tired of it.
 But the mystery hasn't been solved.
 The mystery has to be solved, for all those involved.
-I believe I have made signifigant progress in gaining an understanding of the effects this cabinet causes to those that are
->unknowing of its true motive.
+I believe I have made signifigant progress in gaining an understanding of the effects this cabinet causes to those that are unknowing of its true motive.
 
 And that is why I have led you here!
 
 This GitHub Repo houses all of the information I have gathered over the years,
 and now it is your turn to pick up the pieces that have ached my brain for much too long.
 
-# Please, don't let my efforts be in vain!
+Please, don't let my efforts be in vain!
