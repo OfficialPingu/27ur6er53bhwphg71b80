@@ -13,3 +13,7 @@ Using the table aid link I provided above, I can convert this string into a set 
 
 16 23 75 36 43 35 26 67 76 24 45 34 43 64 77 64 74 54 75 45 75 15 36 52 75 37 46 34 51 76
 
+If I do the same thing to the password "password", I will get these coordinates in return;
+
+23 11 53 53 24 13 43 41
+
