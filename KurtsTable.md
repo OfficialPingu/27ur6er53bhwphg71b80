@@ -3,7 +3,7 @@ I know this may be a little off-topic for any viewers, but coincidentally - I lo
 
 If a viewer like you needs to understand what I'm trying to tell you in dire circumstances, I have created this documentation on how to understand my cipher text.
 
-To begin, I have created an online aid to help in converting polybius coordinates to characters in an alphabet, see [Kurts Table Aid](https://chib.xyz/polybius/kurttable.html).
+To begin, I have created an online aid to help in converting polybius coordinates to characters in my alphabet or vice versa, see [Kurts Table Aid](https://chib.xyz/polybius/kurttable.html).
 
 So, how does it work with a password? Let me explain.
 
