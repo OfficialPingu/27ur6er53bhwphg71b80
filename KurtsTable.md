@@ -3,3 +3,4 @@ I know this may be a little off-topic for any viewers, but coincidentally - I lo
 For in the case that might include a viewer, like you, to understand what I'm trying to tell you in dire circumstances, I have created this documentation on how to understand my cipher text.
 
 To begin, I have created an online aid to help in converting polybius coordinates to characters in an alphabet.
+[Kurts Table Aid](https://chib.xyz/polybius/kurttable.html)
