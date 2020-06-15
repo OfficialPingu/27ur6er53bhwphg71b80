@@ -9,7 +9,9 @@ So, how does it work with a password? Let me explain.
 
 When I encrypt the text "this is some experimental text" using the password "password", I will get "9p8.r4 )@w5xr0/01z8582.l8%,xe@" in return.
 
-Using the table aid link I provided above, I can convert this string into a set of coordinates, as such;
+Imagine this table as a cartesian plane, where each cell is a coordinate. Having X values from 0-7, and Y values from 0-7. Every combination of these coordinates has a character in the alphabet provided.
+
+Using the table aid link I provided above, I can convert this string into a set of coordinates on this cartesian plane, as such;
 
 16 23 75 36 43 35 26 67 76 24 45 34 43 64 77 64 74 54 75 45 75 15 36 52 75 37 46 34 51 76
 
@@ -19,7 +21,7 @@ If I do the same thing to the password "password", I will get these coordinates 
 
 23 11 53 53 24 13 43 41
 
-Now that we have the square's coordinates drawn out for both the cipher text and the known password, the next step we must do is match the length of the password to the cipher text. So, if the password is longer than the cipher text - you cut it short. Otherwise, you repeat the passwords coordinates over until the length matches that of the cipher text. As such;
+Now that we have the square's coordinates drawn out for both the cipher text and the known password, the next step we must do is match the length, or number of coordinates, of the password to the cipher text. If the password is longer than the cipher text - you cut it short. Otherwise, you repeat the passwords coordinates over until the length matches that of the cipher text. As such;
 
 txt: 16 23 75 36 43 35 26 67 76 24 45 34 43 64 77 64 74 54 75 45 75 15 36 52 75 37 46 34 51 76
 
