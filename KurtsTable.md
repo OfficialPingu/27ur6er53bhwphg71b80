@@ -9,7 +9,7 @@ So, how does it work with a password? Let me explain.
 
 When I encrypt the text "this is some experimental text" using the password "password", I will get "9p8.r4 )@w5xr0/01z8582.l8%,xe@" in return.
 
-Imagine this table as a cartesian plane, where each cell is a coordinate. Having X values from 0-7, and Y values from 0-7. Every combination of these coordinates has a character in the alphabet provided.
+Imagine the polybius table as a cartesian plane, where each cell is a coordinate. Having X values from 0-7, and Y values from 0-7. Every combination of these coordinates has a character in the alphabet provided.
 
 Using the table aid link I provided above, I can convert this string into a set of coordinates on this cartesian plane, as such;
 
