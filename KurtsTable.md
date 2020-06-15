@@ -13,6 +13,8 @@ Using the table aid link I provided above, I can convert this string into a set 
 
 16 23 75 36 43 35 26 67 76 24 45 34 43 64 77 64 74 54 75 45 75 15 36 52 75 37 46 34 51 76
 
+Keep in mind that each individual number holds a digit for the X and Y coordinates in the alphabet square; 45 has X-coordinate 4 and Y-coordinate 5.
+
 If I do the same thing to the password "password", I will get these coordinates in return;
 
 23 11 53 53 24 13 43 41
@@ -22,3 +24,4 @@ Now that we have the square's coordinates drawn out for both the cipher text and
 txt: 16 23 75 36 43 35 26 67 76 24 45 34 43 64 77 64 74 54 75 45 75 15 36 52 75 37 46 34 51 76
 
 key: 23 11 53 53 24 13 43 41 23 11 53 53 24 13 43 41 23 11 53 53 24 13 43 41 23 11 53 53 24 13
+
