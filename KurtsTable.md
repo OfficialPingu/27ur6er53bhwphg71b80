@@ -25,3 +25,13 @@ txt: 16 23 75 36 43 35 26 67 76 24 45 34 43 64 77 64 74 54 75 45 75 15 36 52 75 
 
 key: 23 11 53 53 24 13 43 41 23 11 53 53 24 13 43 41 23 11 53 53 24 13 43 41 23 11 53 53 24 13
 
+And now for the fun part; you must subtract the keys coordinates from the cipher texts coordinates at each of their corresponding indexes. Keep in mind, if the resulting value is less than 1 or greater than 7 (the minimum and maximum values of the alphabets square, either vertically or horizontally depending on whether or not the value is for the X coordinate or Y coordinate), then you should wrap the number around. For example, -2 would become 5, 0 would become 7, and 8 would become 1. Here is an example of combining the cipher text to the key text;
+
+txt: 16 23 75 36 43 35 26 67 76 24 45 34 43 64 77 64 74 54 75 45 75 15 36 52 75 37 46 34 51 76
+
+key: 23 11 53 53 24 13 43 41 23 11 53 53 24 13 43 41 23 11 53 53 24 13 43 41 23 11 53 53 24 13
+
+com: 63 12 22 53 26 22 53 26 53 13 62 51 26 51 34 23 51 43 22 62 51 72 63 11 52 26 63 51 34 63
+
+Finally, plot these combined coordinates into my square found at [Kurts Table Aid](https://chib.xyz/polybius/kurttable.html) and it should result in "this is some experimental text"!
+
