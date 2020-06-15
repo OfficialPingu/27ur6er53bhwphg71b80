@@ -37,7 +37,13 @@ com: 63 12 22 53 26 22 53 26 53 13 62 51 26 51 34 23 51 43 22 62 51 72 63 11 52 
 
 Finally, plot these combined coordinates into my square found at [Kurts Table Aid](https://chib.xyz/polybius/kurttable.html) and it should result in "this is some experimental text"!
 
-Go ahead and try it yourself, it will get easier the more you try it. As a practise run, try and decrypt the text "@vvv6fgwk4x4?x!d3mk" with password "pass1234".
+Go ahead and try it yourself, it will get easier the more you try it. As a practise run, try and decrypt the text
+
+"@vvv6fgwk4x4?x!d3mk"
+
+with password
+
+"pass1234".
 
 Good Luck!
 Kurt Koller ~
