@@ -1,6 +1,8 @@
 # Polybius Data Grounds
 
-Hey! My name is Kurt Koller and I have been researching the Polybius Mystery for years now.
+My name is Kurt Koller and I have been documenting a recent appearance of the Polybius arcade cabinet.
+
+My quiet town has been used as a test subject to these federal commissioners, for whatever purpose they wanted. Leaving without a trace, nor memories in those that live here. I appear to have been the only one knowing of what this cabinet means, and the only one willing to inquire into its purpose here.
 
 Recently, I put up a puzzle to bring in other like-minded individuals to this project.
 
