@@ -1,6 +1,6 @@
 Pick up the pieces.
 
-Every log will give a crumb,
+**Every** log will give a crumb,
   from within or elsewhere.
 
 Don't miss a crumb,
