@@ -1,6 +1,6 @@
 *Pick up the pieces.*
 
-**Every** log will give a crumb, from within or elsewhere.
+**Every** log, post L-02, will give a crumb. Either from within, or elsewhere.
 
 Don't miss a crumb, it will ruin the bread.
 
