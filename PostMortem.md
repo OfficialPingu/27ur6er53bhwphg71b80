@@ -2,9 +2,11 @@
 
 **Every** log will give a crumb, from within or elsewhere.
 
-Don't miss a crumb, It will ruin the bread.
+Don't miss a crumb, it will ruin the bread.
 
-The bread will contain only **decimal**, and **alphabetical**, *Capital excluded*.
+Don't place a crumb out of order, it will ruin the bread.
+
+The bread will contain only **decimal**, and **alphabetical**. *Capital excluded*.
 
 None more, none less.
 
