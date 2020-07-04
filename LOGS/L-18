@@ -1,12 +1,13 @@
 ~~~ Begin Note
-Cipher used here was a Vigenere Cipher.
+Cipher used here was only a Vigenere Cipher.
 I know,
   simple.
 I was just exploring different options,
-  don't expect more like this.
-FYI: I had been using the following alphabet;
-  [abcdefghijklmnopqrstuvwxyz0123456789 .,?!@#$%&()/]
-  - Excluding the "[]" brackets.
+  don't expect simplicity like this later on.
+I ended up fancying the idea of multi-level encryption.
+  which does, occasionally, include Vigenere as a prime subject.
+I had been using the following alphabet;
+  abcdefghijklmnopqrstuvwxyz0123456789 .,?!@#$%&()/
 Keep this alphabet in mind,
   it is my absolute preference.
 ~~~ End Note
